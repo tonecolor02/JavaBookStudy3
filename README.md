@@ -16,3 +16,8 @@ Deque 덱</br>
 
 BinaryTree 이진트리</br>
 BinaryTreeTraversalAdded 이진트리순회</br>
+
+BubbleSort 버블정렬</br>
+SelectionSort 선택정렬</br>
+InsertionSort 삽입정렬</br>
+MergeSort 병합정렬</br>
